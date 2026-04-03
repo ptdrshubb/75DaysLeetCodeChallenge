@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
