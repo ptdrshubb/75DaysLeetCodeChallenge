@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
