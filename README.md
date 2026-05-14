@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
