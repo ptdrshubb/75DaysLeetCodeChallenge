@@ -43,23 +43,23 @@ class Solution {
     // time complexity is O(N)
 
     public int fib(int n) {
-       int dp[] = new int[n+1]; // create an array
-       Arrays.fill(dp,-1);  // fill array all element -1
-       return recur(n, dp); // recursion call 
+       int dpp[] = new int[n+1]; // create an array
+       Arrays.fill(dpp,-1);  // fill array all element -1
+       return recur(n, dpp); // recursion call 
     }
-    public int recur(int n, int[] dp) {
+    public int recur(int n, int[] dpp) {
         // store data
        if(n <=1){
-        dp[n] = n;
-        return dp[n];
+        dpp[n] = n;
+        return dpp[n];
        }
         // use data already store
-       if(dp[n] != -1){
-        return dp[n];
+       if(dpp[n] != -1){
+        return dpp[n];
        }
         // store data
-       dp[n] = fib(n-1)+fib(n-2);
-       return dp[n]; // return result 
+       dpp[n] = fib(n-1) + fib(n-2);
+       return dpp[n]; // return result 
     }
 
     /*
