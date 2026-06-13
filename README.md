@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
+| [2942-find-words-containing-character](https://github.com/ptdrshubb/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
